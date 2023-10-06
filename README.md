@@ -1,7 +1,7 @@
 # Toggle-Button-Dark-Light-Mode-in-HTML-CSS
 To create Toggle Dark/Light Mode, follow the given steps line by line: Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files. Create an index.html file. The file name must be index and its extension .html Create a style.css file. The file name must be style and its extension .css
 
-Key Features:
+# Key Features:
 Ease of Use: Easily integrate the animation effect into your HTML and CSS with minimal effort.
 Customizable: Tailor the animation to fit your design needs by adjusting properties such as size, color, and speed.
 Responsive: The animation is designed to work seamlessly on various screen sizes and devices.
