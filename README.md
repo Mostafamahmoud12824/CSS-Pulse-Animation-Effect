@@ -8,5 +8,7 @@ Responsive: The animation is designed to work seamlessly on various screen sizes
 Lightweight: Keep your web pages loading quickly with this CSS-only animation, no JavaScript required.
 Versatile: Suitable for a wide range of elements, including buttons, icons, text, and more.
 Modern Design: Enhance the visual appeal of your website with a trendy and subtle animation effect.
+
 ![Screenshot 2023-09-25 024335](https://github.com/Mostafamahmoud12824/CSS-Pulse-Animation-Effect/assets/62766443/191b7392-be3a-449c-8c8a-08fb89344733)
+
 ![Screenshot 1](https://github.com/Mostafamahmoud12824/CSS-Pulse-Animation-Effect/assets/62766443/839239bf-131d-43e2-a12e-1823b5d6cf6a)
